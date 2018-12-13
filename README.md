@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/pgtrust/craigs/_apis/build/status/perpetualguardian.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/pgtrust/craigs/_build/latest?definitionId=40?branchName=master)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
